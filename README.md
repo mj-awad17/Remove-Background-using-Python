@@ -1,6 +1,13 @@
 # Remove-Background-using-Python 🖼🐍
 
+
 Pircture Background remove 🖼 using the famous 🎇 language Python 🐍
+      
+
+
+<img src="https://github.com/mj-awad17/Remove-Background-using-Python/blob/main/tautara_08/tautara_08.jpg" data-canonical-src="https://github.com/mj-awad17/Remove-Background-using-                                python/blob/main/tautara_08/tautara_08.jpg" width="120" height="120"/>  		   <img src="https://github.com/mj-awad17/Remove-Background-using-Python/blob/main/tautara_08/removeBg-tuatara.png" data-canonical-src="https://github.com/mj-awad17/Remove-Background-using-python/blob/main/tautara_08/removeBg-tuatara.png" width="120" height="120" />
+<img src="https://github.com/mj-awad17/Remove-Background-using-Python/blob/main/coolest-car/coolest-car.jpg" data-canonical-src="https://github.com/mj-awad17/Remove-Background-using-python/blob/main/coolest-car/coolest-car.jpg" width="120" height="120"/>  		   <img src="https://github.com/mj-awad17/Remove-Background-using-Python/blob/main/coolest-car/coolest-car.png" data-canonical-src="https://github.com/mj-awad17/Remove-Background-using-python/blob/main/coolest-car/coolest-car.png" width="120" height="120" />   <img src="https://github.com/mj-awad17/Remove-Background-using-Python/blob/main/cats-animals-nature/cats-animals-nature.jpg" data-canonical-src="https://github.com/mj-awad17/Remove-Background-using-python/blob/main/cats-animals-nature/cats-animals-nature.jpg" width="120" height="120"/>  		   <img src="https://github.com/mj-awad17/Remove-Background-using-Python/blob/main/cats-animals-nature/output-cats.png" data-canonical-src="https://github.com/mj-awad17/Remove-Background-using-python/blob/main/cats-animals-nature/output-cats.png" width="120" height="120" />    <img src="https://github.com/mj-awad17/Remove-Background-using-Python/blob/main/Enuni/Enuni.jpg" data-canonical-src="https://github.com/mj-awad17/Remove-Background-using-python/blob/main/Enuni/Enuni.jpg" width="120" height="120"/>  		   <img src="https://github.com/mj-awad17/Remove-Background-using-Python/blob/main/Enuni/removeBg-Enuni.png" data-canonical-src="https://github.com/mj-awad17/Remove-Background-using-python/blob/main/Enuni/removeBg-Enuni.png" width="120" height="120" />
+ 
 
 Rembg is tool in python for removing the background.
 
